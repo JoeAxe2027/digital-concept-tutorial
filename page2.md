@@ -8,6 +8,7 @@ This page explains the most common Markdown features used in documentation, note
 ## 🔍 Headers
 Use `#` symbols to create section titles.
 
+#Header 1
 
 Headers help organize your content into clear sections.
 
@@ -16,6 +17,7 @@ Headers help organize your content into clear sections.
 ## 🔍 Bold & Italics
 Use asterisks to format text.
 
+*like this
 
 ---
 
