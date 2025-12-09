@@ -1,22 +1,101 @@
-# **Core Concepts of <Your Topic>**
+# **Core Markdown Features**
 
-This page explores the major concepts that power <your topic>.
+Markdown includes simple formatting tools that help you structure text quickly and clearly.  
+This page explains the most common Markdown features used in documentation, notes, and GitHub projects.
 
 ---
 
-## 🔍 Concept 1: <Name>
-Explanation...
+## 🔍 Headers
+Use `#` symbols to create section titles.
 
-## 🔍 Concept 2: <Name>
-Explanation...
 
-## 🔍 Concept 3: <Name>
-Explanation...
+Headers help organize your content into clear sections.
 
-You may include diagrams, examples, or short code blocks here.
+---
+
+## 🔍 Bold & Italics
+Use asterisks to format text.
+
+
+---
+
+## 🔍 Lists
+
+
+
+### • Unordered List
+
+
+Lists make steps, notes, and summaries clear and readable.
+
+---
+
+## 🔍 Links
+https://github.com/
+
+
+Links allow you to reference websites or other documents.
+
+---
+
+## 🔍 Images
+
+
+
+Images require adding a file inside an `images/` directory.
+
+---
+
+## 🔍 Inline Code
+
+
+
+Inline code is useful for commands or small code references.
+
+---
+
+## 🔍 Code Blocks
+
+````markdown
+```python
+print("Hello, Markdown!")
+
+
+
+
+Code blocks are great for examples in programming tutorials or documentation.
+
+---
+
+## 🔍 Blockquotes
+
+```
+> This is a blockquote.
+> It can be used to highlight notes or quotes.
+```
+
+Blockquotes draw attention to special text.
+
+---
+
+## 🔍 Horizontal Rule
+
+```
+---
+```
+
+This creates a clean divider between sections.
 
 ---
 
 ## 🔗 Navigation
-- **← Previous:** [Introduction](page1.md)
-- **Next →** [Examples & Practice](page3.md)
+- **← Previous:** [Introduction to Markdown](page1.md)  
+- **Next →** [Examples & Hands-On Practice](page3.md)
+```
+
+---
+
+
+
+
+
