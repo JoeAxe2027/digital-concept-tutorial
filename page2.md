@@ -58,7 +58,7 @@ Links allow you to reference websites or other documents.
 ## 🔍 Images
 
 ```
-![Example Image](images/example.png)
+![Example Image](images/images.png)
 ```
 
 Images require adding a file inside an `images/` directory.
