@@ -8,7 +8,9 @@ This page explains the most common Markdown features used in documentation, note
 ## 🔍 Headers
 Use `#` symbols to create section titles.
 
-#Header 1
+```
+# Header 1
+```
 
 Headers help organize your content into clear sections.
 
@@ -17,28 +19,37 @@ Headers help organize your content into clear sections.
 ## 🔍 Bold & Italics
 Use asterisks to format text.
 
+```
 *like this*
+```
 
 ---
 
 ## 🔍 Lists
+
+### Ordered List
+```
 1. First
 2. Second
 3. Third
-
+```
 
 ### • Unordered List
+```
 - Item 1
 - Item 2
 - Item 3
+```
 
 Lists make steps, notes, and summaries clear and readable.
 
 ---
 
 ## 🔍 Links
-https://github.com/
 
+```
+[GitHub](https://github.com/)
+```
 
 Links allow you to reference websites or other documents.
 
@@ -46,7 +57,9 @@ Links allow you to reference websites or other documents.
 
 ## 🔍 Images
 
-
+```
+![Example Image](images/example.png)
+```
 
 Images require adding a file inside an `images/` directory.
 
@@ -54,6 +67,9 @@ Images require adding a file inside an `images/` directory.
 
 ## 🔍 Inline Code
 
+```
+Use `inline code` like this.
+```
 
 Inline code is useful for commands or small code references.
 
@@ -61,7 +77,6 @@ Inline code is useful for commands or small code references.
 
 ## 🔍 Code Blocks
 
-````markdown
 ```python
 print("Hello, Markdown!")
 ```
