@@ -54,7 +54,6 @@ Images require adding a file inside an `images/` directory.
 
 ## 🔍 Inline Code
 
-```code
 
 Inline code is useful for commands or small code references.
 
