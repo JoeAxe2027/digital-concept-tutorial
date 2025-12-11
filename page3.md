@@ -1,22 +1,36 @@
 # **Examples & Hands-On Practice**
 
-This section gives practical examples or exercises that help reinforce your understanding.
+This section gives you simple exercises to help you practice the Markdown skills you learned in this tutorial.  
+Try typing each example into your own `.md` file to see how the formatting renders.
 
 ---
 
-## 💡 Example 1
-Explain something with a screenshot, diagram, or step-by-step instructions.
+## 💡 Example 1: Create a Heading & Paragraph
 
-## 💡 Example 2
-Another example or small activity.
+```
+# My First Markdown Heading
+This is my first paragraph written in Markdown.
+```
 
----
-
-## 🎯 Summary of the Tutorial
-A short wrap-up of what the user learned across the three pages.
+This demonstrates how easy it is to structure text using Markdown.
 
 ---
 
-## 🔗 Navigation
-- **← Previous:** [Core Concepts](page2.md)
-- **Back to Home:** [README.md](README.md)
+## 💡 Example 2: Make an Unordered List
+
+```
+- I learned what Markdown is
+- I learned how to format text
+- I learned how to create lists and code blocks
+```
+
+You can add nested items or convert this into an ordered list.
+
+---
+
+## 💡 Example 3: Write a Code Block
+
+````markdown
+```javascript
+console.log("Practicing Markdown!");
+```
