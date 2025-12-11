@@ -64,9 +64,7 @@ Inline code is useful for commands or small code references.
 ````markdown
 ```python
 print("Hello, Markdown!")
-
-
-
+```
 
 Code blocks are great for examples in programming tutorials or documentation.
 
@@ -98,9 +96,3 @@ This creates a clean divider between sections.
 - **Next →** [Examples & Hands-On Practice](page3.md)
 
 ---
-
-
-
-
-
-
