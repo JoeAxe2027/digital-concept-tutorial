@@ -98,9 +98,8 @@ This creates a clean divider between sections.
 - **← Previous:** [Introduction to Markdown](page1.md)
 - **Next →** [Examples & Hands-On Practice](page3.md)
 
-
-
 ---
+
 
 
 
