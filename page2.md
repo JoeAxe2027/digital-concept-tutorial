@@ -17,16 +17,20 @@ Headers help organize your content into clear sections.
 ## 🔍 Bold & Italics
 Use asterisks to format text.
 
-*like this
+*like this*
 
 ---
 
 ## 🔍 Lists
-
+1. First
+2. Second
+3. Third
 
 
 ### • Unordered List
-
+- Item 1
+- Item 2
+- Item 3
 
 Lists make steps, notes, and summaries clear and readable.
 
@@ -50,7 +54,7 @@ Images require adding a file inside an `images/` directory.
 
 ## 🔍 Inline Code
 
-
+```code
 
 Inline code is useful for commands or small code references.
 
